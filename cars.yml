@@ -1,0 +1,10 @@
+en:
+  car:
+     honda:
+          civic:
+               name: 'Civic'
+               description: 'Entry Level Sedan'
+     ferrari:
+          la_ferrari:
+               name: 'La Ferrari'
+               description: 'Supercar'
